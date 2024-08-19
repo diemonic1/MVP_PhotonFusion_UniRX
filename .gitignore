@@ -1,0 +1,6 @@
+*.meta
+.vs
+*.sln
+*.csproj.user
+*.csproj
+obj
